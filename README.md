@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Satyamkumar Singh, i am an Artificial Intelligence and Data Science engineering student, always eager to learn, collaborate, and apply my skills to real-world projects.
 
 <!--
 **Satyamkumar55-tech/Satyamkumar55-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
