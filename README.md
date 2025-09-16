@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Satyamkumar Singh, i am an Artificial Intelligence and Data Science engineering student, always eager to learn, collaborate, and apply my skills to real-world projects.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumar55-tech&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumar55-tech" /> </p>
 
