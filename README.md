@@ -10,7 +10,7 @@ I am **Satyamkumar Singh**, an Artificial Intelligence and Data Science engineer
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/satyamkumar-singh-a32041378/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Satyamkumar545/Satyamkumar545-tech/main/linkedin-logo.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Satyamkumars545" target="_blank">
