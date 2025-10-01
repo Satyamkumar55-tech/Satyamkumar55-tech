@@ -6,7 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![LinkedIn](https://your-hosted-image.com/new-linkedin-logo.png)](https://www.linkedin.com/in/satyamkumar-singh-a32041378/)
+[![LinkedIn](https://raw.githubusercontent.com/Satyamkumar545/Satyamkumar545-tech/main/linkedin-logo.png)](https://www.linkedin.com/in/satyamkumar-singh-a32041378/)
+
 
 </p>
 
