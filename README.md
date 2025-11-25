@@ -33,4 +33,29 @@ I am **Satyamkumar Singh**, an Artificial Intelligence and Data Science engineer
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar55-tech&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar55-tech&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🐍 Contribution Graph:
+<p align="center">
+  <img src="https://github.com/satyamkumar55-tech/satyamkumar55-tech/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+</p>
+
+---
+
+### ✨ Visitor Count:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyamkumar55-tech&color=blue" alt="Visitor Count"/>
 </p>
