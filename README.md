@@ -42,15 +42,15 @@ I am **Satyamkumar Singh**, an Artificial Intelligence and Data Science engineer
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar55-tech&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar55-tech&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar55-tech&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar55-tech&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🐍 Contribution Graph:
 <p align="center">
-  <img src="https://github.com/satyamkumar55-tech/satyamkumar55-tech/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/satyamkumar55-tech/satyamkumar55-tech/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
 
 ---
