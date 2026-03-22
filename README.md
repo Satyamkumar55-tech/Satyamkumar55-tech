@@ -48,11 +48,6 @@ I am **Satyamkumar Singh**, an Artificial Intelligence and Data Science engineer
 
 ---
 
-### 🐍 Contribution Graph:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/satyamkumar55-tech/satyamkumar55-tech/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
-</p>
-
 ---
 
 ### ✨ Visitor Count:
