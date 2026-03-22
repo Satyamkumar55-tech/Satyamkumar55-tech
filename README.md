@@ -1,10 +1,6 @@
 ## Hi there 👋  
 I am **Satyamkumar Singh**, an Artificial Intelligence and Data Science engineering student—always eager to learn, collaborate, and apply my skills to real-world projects.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=satyamkumar55-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 🔗 Connect with me:
@@ -47,9 +43,6 @@ I am **Satyamkumar Singh**, an Artificial Intelligence and Data Science engineer
 </p>
 
 ---
-
----
-
 ### ✨ Visitor Count:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyamkumar55-tech&color=blue" alt="Visitor Count"/>
