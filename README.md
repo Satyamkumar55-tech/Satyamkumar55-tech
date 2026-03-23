@@ -46,5 +46,5 @@ I am **Satyamkumar Singh**, an Artificial Intelligence and Data Science engineer
 ---
 ### ✨ Visitor Count:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamkumar55-tech&color=blue" alt="Visitor Count"/>
+  <img src="[https://komarev.com/ghpvc/?username=satyamkumar55-tech&color=blue](https://camo.githubusercontent.com/1dc74dfcc4e908bcf9e1684828ba04d9d20ae5107cb22e0f954fe7eede4812f8/68747470733a2f2f6e656f6e2d62616467652e636363686972616776617a652e776f726b6572732e6465762f3f706167655f69643d63686972616776617a652e63686972616776617a65)" alt="Visitor Count"/>
 </p>
