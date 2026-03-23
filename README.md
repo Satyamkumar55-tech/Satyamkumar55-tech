@@ -11,7 +11,7 @@ I am **Satyamkumar Singh**, an Artificial Intelligence and Data Science engineer
 </p>
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" height="300" float = right>
 
 ### 🛠️ Languages and Tools:
 <p align="left">
