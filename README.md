@@ -16,19 +16,8 @@ I am Satyamkumar Singh, an Artificial Intelligence and Data Science engineering 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkumar55-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+### ✨ Visitor Count:
 [![](https://visitcount.itsvg.in/api?id=Satyamkumar55-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar55-tech&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar55-tech&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-### ✨ Visitor Count:
-<p align="center">
-  <img src="https://camo.githubusercontent.com/1dc74dfcc4e908bcf9e1684828ba04d9d20ae5107cb22e0f954fe7eede4812f8/68747470733a2f2f6e656f6e2d62616467652e636363686972616776617a652e776f726b6572732e6465762f3f706167655f69643d63686972616776617a652e63686972616776617a65" alt="Visitor Count"/>
-</p>
 
