@@ -18,4 +18,4 @@ I am Satyamkumar Singh, an Artificial Intelligence and Data Science engineering 
 ---
 
 ### ✨ Visitor Count:
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Satyamkumar55-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=Satyamkumar55-tech&icon=0&color=0)
