@@ -12,7 +12,6 @@ I am Satyamkumar Singh, an Artificial Intelligence and Data Science engineering 
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyamkumar55-tech&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkumar55-tech&layout=compact&theme=dark)
 
 ---
