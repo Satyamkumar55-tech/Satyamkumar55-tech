@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Satyam, an Artificial Intelligence and Data Science engineering student—always eager to learn, collaborate, and apply my skills to real-world projects.
+I am SATYAM, an Artificial Intelligence and Data Science engineering student—always eager to learn, collaborate, and apply my skills to real-world projects.
 
 
 ## 🌐 Socials:
