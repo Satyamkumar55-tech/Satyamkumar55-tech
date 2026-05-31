@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+SATYAM;An+AI+%26+DS+engineering+student;always+eager+to+learn%2C+collaborate%2C;+and+apply+my+skills+to+real-world+;projects.)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
