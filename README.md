@@ -1,6 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+SATYAM; An+Artificial+Intelligence+and+Data+Science;Engineering+student;Always+eager+to+learn,+ collaborate,;And+apply+my+skills+to+real-world+projects.
-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+SATYAM;An+AI+%26+DS+engineering+student;always+eager+to+learn%2C+collaborate%2C;+and+apply+my+skills+to+real-world+;projects.)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyamkumar-singh-a32041378/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamranjeet2006@gmail.com) 
