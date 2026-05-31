@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am SATYAM, an Artificial Intelligence and Data Science engineering student—always eager to learn, collaborate, and apply my skills to real-world projects.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+SATYAM; An+Artificial+Intelligence+and+Data+Science;Engineering+student;Always+eager+to+learn,+ collaborate,;And+apply+my+skills+to+real-world+projects.
+)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyamkumar-singh-a32041378/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamranjeet2006@gmail.com) 
