@@ -11,7 +11,7 @@
 
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
-[![SATYAM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyamkumar55-tech&theme=dracula)](https://github.com/Satyamkumar55-tech/github-readme-activity-graph)
+[![SATYAM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyamkumar55-tech&theme=high-contrast)](https://github.com/Satyamkumar55-tech/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
 
