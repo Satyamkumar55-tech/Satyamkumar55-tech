@@ -9,12 +9,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" height="300" align = center>
 
+![](https://raw.githubusercontent.com/Satyamkumar55-tech/README.md/output/github-contribution-grid-snake.svg)
+
 # 📊 GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkumar55-tech&layout=compact&theme=dark)
 
 ---
-[https://raw.githubusercontent.com/Satyamkumar55-tech/Satyamkumar55-tech/output/snake.svg](https://raw.githubusercontent.com/Satyamkumar55-tech/Satyamkumar55-tech/output/github-contribution-grid-snake-dark.svg)
 
 ### ✨ Visitor Count:
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=Satyamkumar55-tech&icon=0&color=0)
