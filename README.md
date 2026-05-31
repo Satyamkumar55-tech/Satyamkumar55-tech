@@ -14,6 +14,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkumar55-tech&layout=compact&theme=dark)
 
 ---
-https://raw.githubusercontent.com/Satyamkumar55-tech/Satyamkumar55-tech/output/snake.svg
+[https://raw.githubusercontent.com/Satyamkumar55-tech/Satyamkumar55-tech/output/snake.svg](https://raw.githubusercontent.com/Satyamkumar55-tech/Satyamkumar55-tech/output/github-contribution-grid-snake-dark.svg)
+
 ### ✨ Visitor Count:
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=Satyamkumar55-tech&icon=0&color=0)
