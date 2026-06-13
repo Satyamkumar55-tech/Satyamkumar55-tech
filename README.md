@@ -18,4 +18,7 @@
 ---
 
 ### Profile views:
-<img src="https://vbr.nathanchung.dev/badge?page_id=Satyamkumar55-tech&icon=0&color=0&style=for-the-badge" alt="Views">
+<div style="display:inline-block; filter: drop-shadow(0 0 6px #00ffff) drop-shadow(0 0 12px #8a2be2);">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=Satyamkumar55-tech&label=VISITOR%20COUNT&color=00FFFF&labelColor=1A1A1A&style=plastic" alt="Views">
+</div>
+
