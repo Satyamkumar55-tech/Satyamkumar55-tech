@@ -20,10 +20,3 @@
 
 [![SATYAM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyamkumar55-tech&theme=high-contrast)](https://github.com/Satyamkumar55-tech/github-readme-activity-graph)
 
----
-
-### Profile views:
-<div style="display:inline-block; filter: drop-shadow(0 0 6px #00ffff) drop-shadow(0 0 12px #8a2be2);">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=Satyamkumar55-tech&label=VISITOR%20COUNT&color=00FFFF&labelColor=1A1A1A&style=plastic" alt="Views">
-</div>
-
