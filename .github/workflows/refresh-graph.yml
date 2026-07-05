@@ -1,0 +1,35 @@
+name: Refresh GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Every 6 hours
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Refresh Timestamp
+        run: |
+          TIMESTAMP=$(date +%s)
+
+          sed -i "s/refresh=[0-9]*/refresh=$TIMESTAMP/" README.md
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "Auto refresh contribution graph"
+
+          git push
