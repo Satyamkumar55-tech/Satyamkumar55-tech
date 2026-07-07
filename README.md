@@ -25,6 +25,4 @@
 
 ![snake gif](https://github.com/Satyamkumar55-tech/Satyamkumar55-tech/blob/output/github-contribution-grid-snake.svg)
 
-[![SATYAM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyamkumar55-tech&theme=high-contrast&refresh=1783388591)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
