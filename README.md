@@ -23,6 +23,7 @@
 
 # Contribution Activity (🐍 Snake Animation):
 
-![Snake animation dark](https://github.com/Satyamkumar55-tech/Satyamkumar55-tech/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Satyamkumar55-tech/Satyamkumar55-tech/output/github-contribution-grid-snake.svg?refresh=1)
+
 
 
